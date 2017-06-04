@@ -3,7 +3,7 @@ layout: post
 title: "Week 1: An Introduction"
 ---
 
-![an image alt text]({{ site.baseurl }}/images/profile.jpg "an image title")
+![an image alt text]({{ site.baseurl }}/images/profile.JPG "Me!")
 
 ### Expectations
 
