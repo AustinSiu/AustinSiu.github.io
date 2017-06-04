@@ -3,6 +3,8 @@ layout: post
 title: "Week 1: An Introduction"
 ---
 
+![an image alt text]({{ site.baseurl }}/images/profile.jpg "an image title")
+
 ### Expectations
 
 I expect to about and develop a working knowledge of the many development tools we will learn about, such as AWS, PostgreSQL, etc. I am looking forward to learning Python and building with it. The software design practices will be very valuable as well. Overall, excited for the semester.
