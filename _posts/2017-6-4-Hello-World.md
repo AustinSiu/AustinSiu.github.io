@@ -3,8 +3,6 @@ layout: post
 title: Week 1: An Introduction
 ---
 
-![an image alt text]({{ site.baseurl }}/images/profile.png "Profile picture")
-
 ### Expectations
 
 I expect to about and develop a working knowledge of the many development tools we will learn about, such as AWS, PostgreSQL, etc. I am looking forward to learning Python and building with it. The software design practices will be very valuable as well. Overall, excited for the semester.
@@ -27,4 +25,4 @@ Class went as expected, especially after I've taken Object-Oriented Programming 
 
 ### What's my pick-of-the-week or tip-of-the-week?
 
-I found an article/post about customizing your terminal to improve your experience a while back, and figured it was relevant to software development. Found at http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience, the author details various tools that make development easier, from small things like better completion handling and spelling correction in terminal to plugins for git that detail information about the local and remote branches.
+I found an article/post about customizing your terminal to improve your experience a while back, and figured it was relevant to software development. Found at "http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience", the author details various tools that make development easier, from small things like better completion handling and spelling correction in terminal to plugins for git that detail information about the local and remote branches.
