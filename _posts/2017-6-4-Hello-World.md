@@ -27,4 +27,4 @@ Class went as expected, especially after I've taken Object-Oriented Programming 
 
 ### What's my pick-of-the-week or tip-of-the-week?
 
-I found an article/post about customizing your terminal to improve your experience a while back, and figured it was relevant to software development. Found at {{ site.baseurl }}{% http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience %}, the author details various tools that make development easier, from small things like better completion handling and spelling correction in terminal to plugins for git that detail information about the local and remote branches.
+I found an article/post about customizing your terminal to improve your experience a while back, and figured it was relevant to software development. Found at <http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience/>, the author details various tools that make development easier, from small things like better completion handling and spelling correction in terminal to plugins for git that detail information about the local and remote branches.
