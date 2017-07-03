@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Week 5: People"
+---
+
+![an image alt text]({{ site.baseurl }}/images/profile.JPG "Me!")
+
+### What did you do this past week?
+
+Phase 2 is just about over. I've been working on the backend of our project, focusing on SQLAlchemy and Flask. Speaking of which, Flask is a surpisingly robust web framework, with numerous mechanics like routing and database management made easy with cooperating libraries.
+
+### What's in your way?
+
+Team coordination has been an issue, mainly due to lack of communication. The new technology has been less challenging than I anticipated, partially because I've worked on web apps before. Also, SQLAlchemy simplifies much of the database interactions, Flask simplified much of the frontend-backend communication and project structure setup. 
+
+### What will you do next week?
+
+I'll be busy with finals in my other classes. I intend to start reviewing what I've learned throughout my CS degree as well as study more popular web frameworks like Django and Express to preparation for after graduation.
+
+### What's my experience of the class?
+
+The class itself is intriguing as usual. The project is rough, not due to technical challenges but people-based ones.
+
+### What's my pick-of-the-week or tip-of-the-week?
+
+My tip is debatably a small one, but one I find valuable. When starting this project, I chose to work on backend because I've already done some frontend work and wanted to experience the full stack. I've found it very rewarding in giving me a good sense on project structure, good forms of communication between the backend and frontend, and other insights. So the tip is to try new things, and build a wider foundation of experience.
