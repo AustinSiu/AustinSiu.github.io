@@ -27,3 +27,8 @@ Something I think would be valuable for students is the ability to revisit all p
 
 ### What's my pick-of-the-week or tip-of-the-week?
 
+Use existing libraries when the need to create a new solution/implementation is not strong. I recently found this Flask library, Flask Restless (<https://flask-restless.readthedocs.io/en/stable />), that helps define an API for you in Flask. It's simple to integrate and provides control over API response format/content. For example, this is how you'd do server-side pagination:
+'''
+apimanager.create_api(Person, results_per_page=2)
+'''
+That line is pretty straightforward, creating a REST API endpoint and setting the number of rows per page of data for some "Person" model you defined in Flask. 
