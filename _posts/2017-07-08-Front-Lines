@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Week 6: Adventures into the Front Lines"
+---
+
+![an image alt text]({{ site.baseurl }}/images/profile.JPG "Me!")
+
+### What did you do this past week?
+
+Personally, I've finished 3 tests this week for my other class, and now I'm done! Excited to see how I can use this newfound free time to learn, possibly tech for the job, possibly game development as a fun side project.
+
+I've transitioned to the Frontend part of our project to help out.
+
+### What's in your way?
+
+Becoming acquainted with React, Javascript, HTML, etc. has been more challenging than I expected, especially regarding React. Despite that, I see its benefits in keeping UI updated in a seamless transition, and I've found the concept of diffing shadow DOMs to selectively rerender the view very interesting and cool. 
+
+### What will you do next week?
+
+Catching up on last week's Refactoring reading, which I didn't notice on the schedule as it was segragated from the other readings, which were in blue hyperlinks. My mistake. I intend to start reviewing for the final.
+
+### What's my experience of the class?
+
+I read Paul's blog post from last(?) week, and think it was a good point regarding Professor Downing's tendency to interrupt the student's train of thought. However, it seems to only happen when Professor Downing gets excited about the story he's telling, approaching the end of class. So while it's sometimes frustrating, I do appreciate the display of passion he has in what he's teaching.
+
+Something I think would be valuable for students is the ability to revisit all previous quizes to study/relfect/prepare. At time of writing, some quizes are revisitable and some remain locked.
+
+### What's my pick-of-the-week or tip-of-the-week?
+
