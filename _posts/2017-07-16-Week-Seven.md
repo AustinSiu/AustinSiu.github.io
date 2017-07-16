@@ -11,7 +11,7 @@ This past week I've been catching up on and reviewing more recent assigned readi
 
 ### What's in your way?
 
-In wrapping up the course project, I need to help prepare the presentation of our website, overwatchdb.me. More nervewracking is the approaching final, which is about a week away from tomorrow.
+In wrapping up the course project, I need to help prepare the presentation of our website, overwatchdb.me. More nerve wracking is the approaching final, which is about a week away from tomorrow.
 
 ### What will you do next week?
 
@@ -29,4 +29,4 @@ The author argues that "communication, internalization, and synthesis of ideas i
 
 One of the large points of the article could be summarized as such: "My submission is that a developer's value to their employer or customer is almost directly proportional to the depth and breadth of their deep context—the knowledge that they have internalized and synthesized in their business's problem domain." This is something that, in my opinion, very valuable for us taking this course with hopes of working as a software developer. The deeper understanding of the customer's needs and wants and the ability to translate that into a set of assumptions and designs are qualities I've seen in the more respected developers and project managers at previous internships, which leads me to support the author's observation.
 
-Given some of the overlaps between our class' objective, and the domain of the observatioins noted by the author, I thought it was a valuable read and would encourage fellow students to give it at least a quick read.
+Given some of the overlaps between our class' objective, and the domain of the observations noted by the author, I thought it was a valuable read and would encourage fellow students to give it at least a quick read.
